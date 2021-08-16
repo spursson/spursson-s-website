@@ -30,8 +30,7 @@ function HomePage() {
           color: 'white'
         }}
         onClick={() => alert('Hello there, this is my website! welcome to my website andenjoy yourself')}
-      >
-        Welcome
+      >Welcome
       </button>
       <button
         style={{
@@ -61,9 +60,12 @@ function HomePage() {
          background: 'blue',
          color: 'red',
          marginTop: '2rem'
-       }}
+      
+
+      }}
        onClick={() => alert('click this URL: https://fsymbols.com/ hope you enjoy this')}
-         
+       >Click! 
+       </button> 
        }}
     </div>
   );
