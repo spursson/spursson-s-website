@@ -60,10 +60,8 @@ function HomePage() {
          background: 'blue',
          color: 'red',
          marginTop: '2rem'
-      
-
       }}
-       onClick={() => alert('click this URL: https://fsymbols.com/ . hope you enjoy this')}
+      onClick={() => alert('use this URL: https://fsymbols.com/ . hope you enjoy this')}
        >Click! 
        </button> 
       
