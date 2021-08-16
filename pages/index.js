@@ -57,8 +57,8 @@ function HomePage() {
          fontFamily: 'andenjoy',
          padding: '2rem',
          fontSize: '3rem',
-         background: 'blue',
-         color: 'red',
+         background: 'black',
+         color: 'white',
          marginTop: '2rem'
       }}
       onClick={() => alert('use this URL: https://fsymbols.com/ . hope you enjoy this')}
