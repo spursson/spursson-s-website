@@ -19,7 +19,7 @@ function HomePage() {
           marginBottom: '10rem'
         }}
       >
-        click the buttons below
+        click, click, click!
       </h2>
       <button
         style={{
@@ -29,7 +29,7 @@ function HomePage() {
           background: 'blue',
           color: 'white'
         }}
-        onClick={() => alert('Hello there, this is my website')}
+        onClick={() => alert('Hello there, this is my website! welcome to my website andenjoy yourself')}
       >
         Welcome
       </button>
@@ -53,6 +53,18 @@ function HomePage() {
       >
         {"What's your name?"}
       </button>
+      <button
+       style={{
+         fontFamily: 'andenjoy',
+         padding: '2rem',
+         fontSize: '3rem',
+         background: 'blue',
+         color: 'red',
+         marginTop: '2rem'
+       }}
+       onClick={() => alert('click this URL: https://fsymbols.com/ hope you enjoy this')}
+         
+       }}
     </div>
   );
 }
