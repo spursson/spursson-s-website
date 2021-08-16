@@ -63,12 +63,11 @@ function HomePage() {
       
 
       }}
-       onClick={() => alert('click this URL: https://fsymbols.com/ hope you enjoy this')}
+       onClick={() => alert('click this URL: https://fsymbols.com/ . hope you enjoy this')}
        >Click! 
        </button> 
-       }}
+      
     </div>
-  );
-}
+  
 
 export default HomePage;
