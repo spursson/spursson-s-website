@@ -56,13 +56,13 @@ function HomePage() {
        style={{
          fontFamily: 'andenjoy',
          padding: '2rem',
-         fontSize: '3rem',
+         fontSize: '1rem',
          background: 'black',
          color: 'white',
          marginTop: '2rem'
       }}
       onClick={() => alert('use this URL: https://fsymbols.com/ . hope you enjoy this')}
-       >Click! 
+       >There's a fun thing inside this black box
        </button> 
       
     
