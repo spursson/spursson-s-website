@@ -66,6 +66,6 @@ function HomePage() {
        </button> 
       
     </div>
-  
+  )
+ export default HomePage;
 
-export default HomePage;
