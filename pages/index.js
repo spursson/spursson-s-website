@@ -19,7 +19,7 @@ function HomePage() {
           marginBottom: '10rem'
         }}
       >
-       Hmm, what do we have to do... aha! click the buttons below!
+      Hmm, what do we have to do... aha! click the buttons below!
       </h2>
       <button
         style={{
@@ -29,7 +29,7 @@ function HomePage() {
           background: 'blue',
           color: 'white'
         }}
-        onClick={() => alert('Hello there, this is my website! welcome to my website andenjoy yourself')}
+        onClick={() => alert('Hello there, this is my website! welcome to my website and enjoy yourself')}
       >Welcome
       </button>
       <button
