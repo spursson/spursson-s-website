@@ -9,7 +9,7 @@ function HomePage() {
         alignItems: 'center'
       }}
     >
-      <h1 style={{ fontFamily: 'fantasy', color: '#4b9be1' }}>
+      <h1 style={{ fontFamily: 'fantasy', color: '#1E00FF' }}>
         spursson's website
       </h1>
       <h2
@@ -19,7 +19,7 @@ function HomePage() {
           marginBottom: '10rem'
         }}
       >
-        click, click, click!
+       Hmm, what do we have to do... aha! click the buttons below!
       </h2>
       <button
         style={{
@@ -61,7 +61,7 @@ function HomePage() {
          color: 'white',
          marginTop: '2rem'
       }}
-      onClick={() => alert('use this URL: https://fsymbols.com/ . hope you enjoy this')}
+      onClick={() => alert('use this URL: https://www.youtube.com/watch?v=h4m68r8kWAc . This is my favorite soccer game')}
        >There's a fun thing inside this black box
        </button> 
       
